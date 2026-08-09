@@ -1,4 +1,4 @@
-```markdown
+
 <div align="center">
 
 <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/d48893bd-0757-481c-8d7e-ba3e163feae7" width="100%" />
@@ -268,4 +268,3 @@ A web application developed around food ordering and table reservation workflows
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563eb,100:111827&height=100&section=footer" width="100%" />
 
 </div>
-```
